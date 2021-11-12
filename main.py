@@ -9,7 +9,7 @@ stpS = np.array([0.01,0.01]) ##cubic meters, pascals
 
 ##for reference (V,P) tuple notation
 N = 1E26
-f= 5
+f= 3
 kB = 1.38E-23
 
 poly = np.zeros((0,2))
